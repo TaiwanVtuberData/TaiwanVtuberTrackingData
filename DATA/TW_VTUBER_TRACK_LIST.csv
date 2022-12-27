@@ -930,7 +930,7 @@ e82d7d3d158c4a5dacf2128548b5bbc9,克萊克,,UCZQUX665cdt-Bhr61ForzuQ,,,2021/12/2
 2a20316d245d406193331300bb44fdec,可可洛希亞,,UCWSr_eL80DuFpmsKUy44cTA,,,2021/12/19,,Active,,TW
 3725a1523376485a90af5eeddc52270a,瑪帕.埃文斯,,UCAgvOFSCAEsRjJdDh2e-1KA,,,2021/12/19,,Active,COZY BOX,TW
 b8ccfa7aec6a419ca8ad1a91d9fafdf6,宵夜XiaoYe,,UC7bWw0xLewIo47aqxhaF39Q,47994321,xiaoye_vtuber,2021/12/18,,Active,,TW
-0eb711111f474f9aad3df82204c12add,桃華 Momoka,,UC3qPEeo12qr5WqmAJvFAO2w,,,2021/12/14,,Active,,TW
+0eb711111f474f9aad3df82204c12add,桃華 Momoka,,UC3qPEeo12qr5WqmAJvFAO2w,722551990,momoka_vt,2021/12/14,,Active,,TW
 ba1e71532eaa40ae8081fc2ab4df195f,白葉ミント,,UCIP5i2KLRFzpedBYLUDwU4g,,,2021/12/12,,Active,,TW
 a8bee4c680a54cf29b34d90bf7230ab1,珈琲モカ,,UCOBy2GH-cjhVqSnYEG7z7nQ,439508545,kohi0501,2021/12/12,,Active,,TW
 2e6e283f56a14834a5bfa45489f02ef5,吧格Buggo,,UC1E3qvByQsGK8vljmMnyfXg,,,2021/12/12,,Active,,TW
@@ -1733,7 +1733,7 @@ c9e933e250e747f88f8cbf4857ec7f3b,松鼠嗯哼,,UCyldp4cWdRyXCH1AdOzK6gQ,82404877
 af89613e72874e219c00ab0c89b6c641,威沃爾·威斯福,,UC2EqMOAuVbnYMFIMtRXXyVg,707508752,weaverwisford,2021/8/29,,Active,,TW
 b0e88b4d4e5d41c4b5edd07540dc3637,柚鈴Yuurei,,UCY-e-w28EfNTZBvU32fgYWQ,,,2022/11/18,,Active,Vsupport,TW
 c9ac78b9004c4c26ba4107ccefe399ec,熊狸Kumari,,UCizVAYh1S9Rxq4y5jsZKVYw,,,2022/11/25,,Active,Vsupport,TW
-77f4700c452c4200a4e62effa2884b4a,歌音,,UC0KwtQcD3NhvAKyXPnmt7Lw,805044693,kanon_0323,,,Active,,TW
+77f4700c452c4200a4e62effa2884b4a,歌音カノン,歌音,UC0KwtQcD3NhvAKyXPnmt7Lw,805044693,kanon_0323,2022/12/25,,Active,,TW
 0a9e04624456419c814b77a7aa12678b,魚沫,,UCnfNvnZozGaRfOFSRWrxeiQ,,,2022/11/19,,Active,,TW
 1618171723d84cbe8b57cd69fa6f477f,凜焰鹿奈,,UCDbxmrUp1D4tP51A07LhyCA,414452131,rin_en_kana,2021/9/13,,Active,,TW
 968f0b8c521942d6939234c70f49747a,花火流明,,UCowqpS7n0l2oBD1lYwgcbgA,809757139,hanabi_lumen,2022/11/27,,Active,,TW
@@ -1765,7 +1765,7 @@ ead86691a3e844429e3f1b87b338a3f8,梅里&理米,,UCAAfYk0AI7I0Kk5pLoopNSw,,,2022/
 dfc411c6b5d24d97b944f527ddfd2f0b,泉川喵,,UCrTIDW9xcII2lNh3ZF_yKiQ,,,2022/12/11,,Active,九藏喵窩,TW
 b95eb39c5bb74de687696afbc31fb836,兎苺咲,,UCsd6EaK4vzfd49swGXAR-bQ,854727783,uisaki_ch,2022/12/17,,Active,兔窩,TW
 175cfc69dbb34f1a8987f24a935db17f,麻由要子,,UCMwjykBSiTTq359UI_vgZWQ,,,2022/12/17,,Active,兔窩,TW
-819cc1636ec94c0ab290b4513c6d629d,Miki Aoboshi,,UCnjJjV4SXsHyMnGTeinn8Lg,786574029,mikiaoboshi,2022/12/26,,Preparing,,TW
+819cc1636ec94c0ab290b4513c6d629d,Miki Aoboshi,,UCnjJjV4SXsHyMnGTeinn8Lg,786574029,mikiaoboshi,2022/12/26,,Active,,TW
 239947732521428d946087065b7c8e17,心咲,,UCkTfvQqiCDniJt2XZFEXAbg,,,2022/12/18,,Active,Werhaus Music,TW
 f18f778f8a8b468cbe7dcd350228e3fb,亞夙ヤス,,UCMLy8AHoMd5v8HS3xlU0Y6w,62363947,yasu_dayo0823,2023/1/24,,Preparing,,TW
 68671ee09add4d87b8038acebc5b48a4,諾里,,UCw1pkppcp-AZwfQsyG77jGg,805716865,norieee_v,2022/12/16,,Active,,TW
@@ -1788,14 +1788,16 @@ d79b58ef1a2844be892c7295e25ccb81,卡斯です,,,96285886,saraignite,2022/10/30,,
 920d34819cf944e99cf469f7552d535f,厭世住院醫師阿萬,,UCyEdVShpd0J11uf1Tsz-Udw,,,2022/12/11,,Active,,TW
 acc708b79f1c4e388466b407387e7cb5,歐爾特芬里斯,,UCDWua07cGku90lfwMtOIJqQ,,,2021/11/12,,Active,,TW
 99e291fd358849b8877df76fba0a672e,千籟喰音 & 萬籟響,,UCWUKckeGJO8l1VJ7wbKtnrg,,,,,Preparing,世界殘響,TW
-8fd3526ba2074df896bbcb47e713565b,Ooniau暖暖,,UCXqEvZGP5_KWzD6nCSSCUsQ,,,2022/12/26,,Preparing,,TW
+8fd3526ba2074df896bbcb47e713565b,Ooniau暖暖,,UCXqEvZGP5_KWzD6nCSSCUsQ,,,2022/12/26,,Active,,TW
 577fdbca86fa4414a153b5ebdcab90d4,咲やま 亞麻,,UCT4IrY_ycXcNFi2M7xKTZ_w,820401237,sakiyamaa_,2023/1/26,,Preparing,,TW
 7aeffe1ba0c443d5aa4721247b801593,天馬 修,,UCZ_DLdJIH1n7nG2w6Wfmz0A,,,2022/12/21,,Active,,TW
 f35a9b5a49c54f4c99aec1871a069b59,佟藪梧柒,,,857004424,tonton_0420,2022/12/17,,Active,,TW
 20bfe5495db6453eaadbc55322c856f9,星殞幽星,,UCT-73qoVwAHz6YdDUeed2Qg,,,2022/12/23,,Active,,TW
 e57eccbb01a64ef2990cad149cd08364,梓雀,,UCiyVYbVXi2BARxsWR7Gfw3w,779410674,azujaku,2021/12/24,,Active,,TW
 3de6bc82438b451abf5ebe76a366be24,淘淘豬,,,464769464,taotao_0,,,Active,,TW
-5507154831064d69906acc64c76b1c99,四巳,,UCcVv0guQlC8Q-jMmsAQADsQ,814170923,yomi44_vtuber,2022/12/26,,Preparing,,TW
+5507154831064d69906acc64c76b1c99,四巳,,UCcVv0guQlC8Q-jMmsAQADsQ,814170923,yomi44_vtuber,2022/12/26,,Active,,TW
+3d0b78ec5e984b5e997b7a912da3978c,周瑜,,,448442741,jux404,,,Active,,TW
+5298121274154e4b9154e8ac47d98beb,瞳夜,,UCU7lz-dXUoxVLmRbkRrHRrw,,,2022/12/28,,Preparing,,TW
 08a9cb204a03447bbba896df3ee6a096,鈴狐れい,,UCVUftumdGBiCw9RlvrHIujA,782276277,suzukorei01,2022/4/5,2022/12/25,Graduated,GuardianPB,TW
 1b8f1c5c6e784ef4930d7e0f1dc35e4e,綺綺 諾庫諾,,UCz26VitmvNo0zU_Cj_c1EuA,,,2021/9/12,2022/12/25,Graduated,,TW
 007847e77d894f199e1272cf81e02730,猫芙芙,貓糬,UC7BnNC7oDFuSpFFBOxQQGXg,759842140,neco_mofuu,2021/5/30,2022/12/19,Graduated,,TW
@@ -2007,7 +2009,6 @@ b54e216619d14031a317b820113e4084,ZEN世界,,UCyknKJmF9-tUODm8v1hI7Xw,,,,,Active,
 350516d81d0944fd8dde463cbd4fd279,緋佐あきと,,UC-cHFd49zhY3Y7x9PZGDC_Q,,,2021/7/1,,Active,,HK
 0fa88d7be0ba4850abea150aa73fe440,Uncle Fat 肥大叔,,UCRTxmw0KnecDsf9rfJpuvog,,,,,Active,,HK
 e9c48535f2af4f638e5a4c54ffa7862c,葵鼠たろう,,UCdJrSkElGhRwhi053wQTebA,,,,,Active,,HK
-b34b0381ce8e40f2b24fa0a96a1e1bd5,淡水魚,,UC70SnzS9Zb_gEXP2WCx34eg,,,2020/11/17,,Active,,HK
 9b11be3138284ff3904d3292d6aaa284,Enn Sings,,UC2cgk_smOj7tSH_4g-YoF0A,,,2021/1/10,,Active,,HK
 44b22851b9df4612bec834e2cfde9489,御使守koi,,UCZPOGdZjyyDD8ETLmZ4g-Ng,,,,,Active,,HK
 5f98038e1d394c3b94d3077b132b2b92,Dolla朵拉,,UCYt1gX5dKKuCug9hibApvpw,,,2021/8/1,,Active,Eggtart,HK
@@ -2235,6 +2236,7 @@ b3a1f0922f7440f3bb1adbfa7a04bd09,洛洛莉,,UCaIW7E0_mk5GcKrz2P3ogfQ,771328493,n
 85aa19ec73ce4db08ba1bf3d0f1807ce,Kani可兒,,UC1j4g0vSBT4fgLNr-mvMaWg,,,2022/8/20,,Active,,HK
 ed453cf257b44eb08409c2c6d98a5e38,啾比Cupi,,UCc5dQ8QTz3Gf9Hk4if3I8ag,,,2022/10/28,,Active,,HK
 5205602b7f5a424eaefc557e4fb55823,闇鴉,,UCKxgsQQz6jSlyt8bLqHi2ag,775104831,raven_taylorson,2022/11/17,,Active,,HK
+b34b0381ce8e40f2b24fa0a96a1e1bd5,淡水魚,,UC70SnzS9Zb_gEXP2WCx34eg,,,2020/11/17,2022/12/1,Graduated,,HK
 9ee558b898964252a06e2c423f8d58ad,法夫李恩哈特,,UC1cUt3w_jTb4e0IzYZBjlUA,,,2021/12/18,2022/3/24,Graduated,,HK
 df079afa77ea4a65baedaaa701936050,Runa ch.璐娜,,UCy-w2CzSCqy9JZTBDHbKEJA,,,,2022/1/7,Graduated,,HK
 d1f20b59a19e4ec499d423a7ba65d602,廻時 祈,,UCdqGDN85zlycUw18cUuGLwQ,,,2021/4/9,2022/1/5,Graduated,,HK
