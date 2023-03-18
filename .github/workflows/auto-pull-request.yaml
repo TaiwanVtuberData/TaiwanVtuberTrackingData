@@ -14,7 +14,7 @@ jobs:
     - uses: repo-sync/pull-request@v2
       name: pull-request
       with:
-        destination_branch: "branch-2022"
-        pr_title: "Pulling ${{ github.ref }} into branch-2022"
+        destination_branch: "branch-2023"
+        pr_title: "Pulling ${{ github.ref }} into branch-2023"
         pr_body: "Automatic PR"
         github_token: ${{ secrets.GITHUB_TOKEN }}
