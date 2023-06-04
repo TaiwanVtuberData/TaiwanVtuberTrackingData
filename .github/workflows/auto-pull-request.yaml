@@ -5,7 +5,7 @@ on:
 
 jobs:
   pull-request:
-    name: Open PR to branch-2022
+    name: Open PR to branch-2023
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
