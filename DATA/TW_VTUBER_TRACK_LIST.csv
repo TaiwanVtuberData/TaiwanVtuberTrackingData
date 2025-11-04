@@ -23,6 +23,7 @@ cbb5df4184f04027b8a550d648d79eeb,子午計畫,,UCcyTlQ92NIJ4fYR45OFpFQQ,,,,,Acti
 8282a91b3aae44d3a075d08507665f4e,Miiracle Love,,UC08IokqML-89ZzAufqTyWqw,,,2024-12-22,,Active,Miiracle Love,TW
 dd8cb7ef72a148a9bfd1753791ec6509,ZOO馬戲團俱樂部,,UCQX883vLbtnMmGgzsVW8tQQ,,,2025-07-01,,Active,ZOO馬戲團俱樂部,TW
 9f9bfcbf980b43bcb00c03261439d18d,你啊罵火鍋,,UCJ2tbIBt-6vxJU5_71VyhpA,1313800248,niamahotpot_vtuberpodcast,2025-05-27,,Active,你啊罵火鍋,TW
+4bbc9414c3184dfa9aeab5fcdfd87089,芥川組,,UCLIaG97_ujtKnQUShVn0XpQ,,,,,Active,芥川組,TW
 e3b2ba3f0767417a911eedeb6604ec7f,六月草.studio,,UC9ymconZOuIj-cuWpEUyjUg,,,,2024-09-30,Graduated,六月草.studio,TW
 224e3ebb4c0540098ce414cc6e79df9d,FreedomLive,,,801045698,freedomlive_,2022-02-28,2022-08-31,Graduated,FreedomLive,TW
 09db2ab40bc54cae831b5514b68be313,異次緣,,UCctw7o1KKzr8x5YdhuRunIw,,,2022-01-01,2022-02-05,Graduated,異次緣,TW
@@ -1529,7 +1530,6 @@ dc97af965a4942d281cc7365805233f1,凱亞爾,,UCi9Jkhf15AVs4uUjmqnjM8w,,,2024-06-0
 3d23ff5303d54cc58e5a69aa53b1db50,萊米特勒斯,,UCGPd22J1LPxPsk44JoJ4amQ,,,2024-06-09,,Active,凜冬白晝,TW
 e72542ff8bb14e47929b037c626c320a,三日月琉璃,,UCMa3rUqNRzqqn2oLCaXEhlw,,,2024-06-09,,Active,凜冬白晝,TW
 f6c34086d07a4322b9d4ebc538bada96,灯華 よい,小火 ほむら,UCdyzRyPWJI61NHk61tbPMng,,,2024-06-09,,Active,,TW
-8746bf3b3b5843e7b00f6ec23fefb6b1,黑翼冰嵐,,UCvc6Qjs3e6mkQXFtPwpP7Kg,67505697,kokuyoku_hyolan,,,Active,,TW
 54ea240f1bf1471981684464081645e7,虎嚕呼嚕,,UCTcUwWHv8uhnu995GUzrZpg,664516434,huruhuruxd,2024-06-03,,Active,,TW
 f8e4654549304ea9933e02c2dcf48aae,毒菲,,UCZ2McB2_9Aw4T4wixA5ln0g,914308041,toxicetokishishi,2024-06-05,,Active,,TW
 886a4e04bead4c5088c3d32896b28d9b,裘芽ルタ,,UCEbl5NvwnZPIthCGPtqLu7A,,,2024-06-15,,Active,,TW
@@ -2199,8 +2199,8 @@ c6a8cee6b8e042518ef58659113b3f34,薇々安・ル,,UCY3nQY9quhr9Suxasrr1tSg,,,202
 479b23215fd84e0387e4f95c8bdfb127,惡貓社長,,UCig8jmxcpu8fwfpPWBITOeQ,,,2025-10-18,,Active,MorphusAI,TW
 e94cfb3c71d94965bfc98f135bfd2f14,那隻熊,,,561130154,kumabear_ouo,,,Active,,TW
 0e516fd1e97a4c58bad3afb6469748d4,伊娜・艾爾菲娜,,UCFnq_VMTCwfX-WPWDVGczDg,1007950550,ena_elphina,,,Preparing,,TW
-0b165d46f9164557b16678383820ee04,奈維婭,,UC7z46JWqb7r_fl7fuHUpMVw,923564046,nekomiya_nevaeh,2025-11-01,,Preparing,,TW
-91d867842ac74a299407199f295d135d,蘇倪,,UCZkeOAFlnJQE-SBq6mPuABA,,,2025-11-02,,Preparing,,TW
+0b165d46f9164557b16678383820ee04,奈維婭,,UC7z46JWqb7r_fl7fuHUpMVw,923564046,nekomiya_nevaeh,2025-11-01,,Active,,TW
+91d867842ac74a299407199f295d135d,蘇倪,,UCZkeOAFlnJQE-SBq6mPuABA,,,2025-11-02,,Active,,TW
 5efb403f9a174bfd82d04d528a121042,幽李鈴,,UC5-c9gkE8cHlecxumnSYNQg,1374680348,u00vtuber,,,Preparing,,TW
 683c47ffba3246cb8574a6f2667208d1,茶帽瑪緹,,UCcT9BcGu92uvq_R1BKvw2fw,1326384213,aelis_chamamatti,2025-11-28,,Preparing,預見娛樂,TW
 02f5258d29b046bc9f597c9baac014bf,珮蕾,,UCvc-Xz6103-uVlIK-pWTXbA,1322264153,p1lepe1el1,2025-11-29,,Preparing,預見娛樂,TW
@@ -2214,9 +2214,16 @@ a05be3d154824597b21375f53b244585,梅奧奧,,UCiJiU1LftLDm5tAR0X037Cw,1324202209,
 4819621890c0408aaa7e81aa2dd3386b,茶紀,,UChle4ogzr4lQ0r9Ey9kAh_w,,,2025-10-11,,Active,,TW
 af41302aa9184c2dbc25d2ed16e878fc,敬 里希特,,UCLsPc_nwveC7Z9lzsFfLCSg,28630263,jing_licht,,,Active,,TW
 74a8b2325c0c4b158dd12377bff187c8,夙睦,,UCaYv1ZT9U6JhWs0-AInHMXA,,,2026-02-16,,Preparing,黎淵幻域計劃,TW
+3f36658defc1428b8d4628478ef59256,JC 虎咲劍春,,UCc6p65ogFmLIIVCWoUnG-vg,,,,,Active,,TW
+e1bc34a2b6ac4d86ad6758cef724e7dc,夏莉奈Sharina,,UCjyoa4CbqdwKVtZMUVg9abw,,,2025-11-22,,Preparing,,TW
+2c05340bb152419ebe0bd3fb6a78da80,鹿島神春日,,UCt4uzM21MBcP0aJW-fTp4-w,,,2025-12-10,,Preparing,芥川組,TW
+f13832094d8b40fbb95d07732aa3c3c7,小鵺野紗音,,UCilDXp9OCn51TLcWwfXcmtA,,,,,Preparing,芥川組,TW
+44af52f7f6aa487e850b3d261947205b,貓屋敷百壹,,UCbekFvyr5cAWHKr3XFvPqTA,,,,,Preparing,芥川組,TW
+ea8cc7c4366d48c797a88bfbcf584301,玻玻露,,UCPsIaupuz9NSsjAsqkAsfHQ,1376686708,bobolu886,2025-12-13,,Preparing,,TW
 6c8f616ab73c449d8eb8e3888c2c8bfe,艾蘿伊,,UC_8-R8pKkOQPNfkLozI46cg,860856979,eroi_moon,2023-07-14,2025-12-31,Active,,TW
 4bded61728c4482c817c3cc236d0a619,羊駝AlpacaOHO,,UCCoSdLCepmmB-rGs84a0J4A,822615737,alpacaoho0715,,2025-11-15,Active,,TW
-d20c66018a094127805133f051037124,伊糯姆,,UC72QDntJADIJpkbwX0iE7GQ,773911936,enomu165,,2025-10-30,Active,第二鈕扣風味社,TW
+8746bf3b3b5843e7b00f6ec23fefb6b1,黑翼冰嵐,,UCvc6Qjs3e6mkQXFtPwpP7Kg,67505697,kokuyoku_hyolan,,2025-11-02,Graduated,,TW
+d20c66018a094127805133f051037124,伊糯姆,,UC72QDntJADIJpkbwX0iE7GQ,773911936,enomu165,,2025-10-30,Graduated,第二鈕扣風味社,TW
 62e820e937ef4f4aaea0073bc5b21063,埃爾庫涅,,UCHD87i7klQ_-up4bgPHglbQ,,,2023-08-19,2025-10-19,Graduated,Mirolive,TW
 2a5241b8ebc54be98263c9ea2924b7e9,鳥人瑞克斯,,UC7dQXSqCJGOESz2YMVNcTUw,703670102,r1xerdesu,,2025-10-18,Graduated,,TW
 7c654d42b5f9447ab761a14b9ab42b77,夕霧,,UCcrq7QhntdlxJCY9jqKIlcw,1009215040,xiwu0315,2025-05-20,2025-10-17,Graduated,和青,TW
@@ -2695,7 +2702,6 @@ d78d72ce0aac4c9d9c5c16604209ced3,黑澤 Kurosawa,,UCZpo0q67hgB0b6U7EEF9uTg,,,202
 cc882664d9794fb88b06a5a0aa1591ae,月川 MoonRiver,,UCUoxyUU0ikJ3a_Mi_elYAIQ,,,2022-04-01,,Active,,HK
 6c2b07e387644ff1898d8c536747dcb0,企鵝麵,,UCeNGWj--eirdNBEumCsHzug,813940811,kiyominoodle8989,2023-06-02,,Active,甜椒工房,HK
 7607603e2b5f422fbdee3d495f62a411,A1M1愛美,,UCUjw5PLyOVI2pRiw0Ckn1wA,,,2022-02-07,,Active,,HK
-0dc64e677ea0451095971685f0618966,泳彤,,UCu9U591nhV99v2dxQZgA1gQ,,,2023-03-03,,Active,,HK
 def76c5c31fe4466b5ae6e6940ae6e58,凪砂,,UCP1rMsVeqQvaofz8K2ePeGw,,,2022-01-28,,Active,,HK
 17610c1e36214c0f8002456d8b0bcf36,華宮ヒトミ,,UCM-g-nWfpWJ7X8VBKSke8Jw,,,2023-11-09,,Active,,HK
 6873f5b9a88c42ba980878bbffb5682a,C.L.C.C,,UCnarYWXO4WoA3iyQfo4BqUA,,,2024-04-01,,Active,,HK
@@ -2713,6 +2719,7 @@ e04cb802f3c949bc8300c4125078f738,愛婭Aya,,UC4GnQx7AY-QOTgPzRdcBaGw,,,2025-07-3
 1c304e8690e2400d9482f1173f59ad70,猫崎ライミ,,UCnn3Zn74wroyx7qHr911IyA,1319132738,nekozakilaimy,2025-09-21,,Active,,HK
 1bf9786ba55042b9ae3294dadfc7b40d,白崎銀狐,,UCw_K-HD2ZpsdwP66ksAZUkA,,,2025-09-21,,Active,,HK
 ec30041838214022aeb622c0851e46db,欸爾エイヤ,,UC2ft_n2DI3_cueo11pzcAkw,714238731,a2isonline,,,Preparing,,HK
+0dc64e677ea0451095971685f0618966,泳彤,,UCu9U591nhV99v2dxQZgA1gQ,,,2023-03-03,2025-12-13,Active,,HK
 8b7a4cfb12e54a309645f0e077bb088a,果咩,,UCOm9sa2TpGS2uDZzv09COeA,,,2022-05-28,2024-11-28,Graduated,,HK
 9543391286c44c5e9c9e9ed7ef608f20,力崎,,UCbPf1QCN0NrOVnPjqR6uxSA,904077262,akiserikki,2023-06-10,2024-10-26,Graduated,,HK
 59005edeef174395915757d45718177d,卯月瑠花,,UCPLVjyOLB7uOt_gtwwQx7TQ,,,2020-08-15,2024-10-10,Graduated,,HK
@@ -2864,6 +2871,7 @@ d4bd6ed12ee746a8978434ee5b14dd27,Ivvane,,UCymRavd62gWey9Pf0r2fkZw,62254531,ivvan
 f3b487c00ef5466eaa529f3a2e8d6753,華宮結,,UCuLeScJPrKN6X2yCMKcP2DA,,,2025-11-26,,Preparing,,MY
 22a1949143784185ae001c31a717b5bc,憂憂果Yoogo,,UCLIJr-Vt20TgOWnkXUyH5RA,,,2025-09-06,,Active,,MY
 d46a06f4c654403e8b6376f7eda6f6ba,白桃チサ,,UCf8eeA-QJEx74sak7DYWo2w,,,2025-09-20,,Active,,MY
+e739323b76994f8abcca757db52a440d,Kiyoru翡夜·猫拾,,UCPtnLYz9vxtNaQDU_D33DhA,,,2025-11-19,,Preparing,,MY
 a8e44e51a99c487694e2525dc57c85ca,小狼 Ren,小狼Jerry Makoto,UCP6nEbilZ_Gq5j3ysxZHV2g,615258686,imjerrythewolf,2021-11-10,2026-01-01,Active,,MY
 43b63a022b664691827cd276aff6e4f4,百鬼陸,,UCvVfK5duKs9wgQd4G68uI9w,,,2022-08-05,2025-08-05,Graduated,,MY
 eb9c18d484464a8e9ac12f44c761ce27,南島ピオン,,UCSKpNotPlJIbenQY_3gF-Sg,636557353,pyonpyondayo,2021-03-13,2023-09-10,Graduated,PRRU,MY
